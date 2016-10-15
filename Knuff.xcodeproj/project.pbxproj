@@ -323,7 +323,7 @@
 				TargetAttributes = {
 					F45929FC1AB475D000041A6C = {
 						CreatedOnToolsVersion = 6.2;
-						DevelopmentTeam = N2ML8MSSRH;
+						DevelopmentTeam = 556343DW3U;
 						LastSwiftMigration = 0800;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
@@ -605,6 +605,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 556343DW3U;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -628,6 +629,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 556343DW3U;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
